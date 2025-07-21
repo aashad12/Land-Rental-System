@@ -1,0 +1,3 @@
+Kathmandu, North, 4 , 50000 ,Available
+Pokhara  , East , 5 , 60000 ,Available
+Lalitpur , South, 10, 100000, Available
